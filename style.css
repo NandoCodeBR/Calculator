@@ -1,0 +1,16 @@
+.res{
+    margin: 20px 0;
+}
+.result{
+    min-width: 180px;
+    margin-left: 10px;
+    display: inline;
+    color: darkred;
+}
+.btnRes{
+    width: 40px;
+    height: 40px;
+    background-color: darkslateblue;
+    color: #fff;
+    margin-top: 20px;
+}
